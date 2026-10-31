@@ -5,3 +5,7 @@ Welcome to my **Week 1 Assignments** from Stanford University's Code in Place (C
 This folder contains the questions, solutions, and learning progress from my Week 1 programming assignments.
 
 ## 📚 Course Information
+- **Course:** Stanford Code in Place
+- **Week:** 01
+- **Language:** Python 🐍
+- **Purpose:** Learning Python through practical assignments.
