@@ -1,0 +1,18 @@
+Write a program that tells jokes! Your program will greet the user, ask if they'd like to hear a joke, and then use AI to come up with one. As long as the user keeps saying "yes," your program should keep the jokes coming. When they finally say "no," the program ends.
+
+
+
+Here's what a conversation with your finished program might look like:
+
+Hello! I am an AI joke bot.
+Do you want to hear a joke? Type yes or no: yes
+Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
+
+Do you want to hear a joke? Type yes or no: yes
+Why don't skeletons fight each other?
+
+They don't have the guts!
+
+Do you want to hear a joke? Type yes or no
