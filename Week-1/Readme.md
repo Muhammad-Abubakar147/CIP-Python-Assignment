@@ -9,3 +9,11 @@ This folder contains the questions, solutions, and learning progress from my Wee
 - **Week:** 01
 - **Language:** Python 🐍
 - **Purpose:** Learning Python through practical assignments.
+
+## 🎯 Learning Goals
+
+- Understand Python fundamentals.
+- Improve logical thinking and problem-solving.
+- Practice writing clean and readable code.
+- Complete all assigned programming exercises.
+- Build consistency through daily coding practice.
