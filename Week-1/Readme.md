@@ -17,3 +17,10 @@ This folder contains the questions, solutions, and learning progress from my Wee
 - Practice writing clean and readable code.
 - Complete all assigned programming exercises.
 - Build consistency through daily coding practice.
+
+## 👨‍💻 About Me
+
+**Muhammad Abubakar**
+
+Final-Year Zoology Student | Python Developer | AI & Machine Learning Enthusiast
+
