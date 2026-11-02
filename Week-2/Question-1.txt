@@ -8,4 +8,4 @@ Dogs have different lifespans than humans. Thus their age is sometimes reported 
 Your program will take in an age in calendar years, multiply that age by 7.18 and report the resulting dog years. Here's a sample run of the program:
 
 Enter an age in calendar years: 10
-That's 71.8 in dog years!
+That's 71.8 in dog years
