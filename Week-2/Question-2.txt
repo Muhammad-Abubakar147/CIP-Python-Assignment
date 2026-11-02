@@ -13,7 +13,6 @@ Enter a number: 2
 128
 
 
-
 Note that: 
 
 2 doubled is 4
