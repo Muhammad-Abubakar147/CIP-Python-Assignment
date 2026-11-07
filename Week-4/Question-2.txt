@@ -1,0 +1,29 @@
+Crack It
+Someone has sent you a coded message and did not tell you the shift. That is fine: there are only 25 of them. Write a function crack(message) that calls your decode(message, shift) for each shift from 1 to 25 and prints each result.
+
+
+
+Your program should now:
+
+Print Welcome to the Code Machine!
+
+Ask for a message and nothing else. No shift this time.
+
+Call crack(message) on it.
+
+
+
+Example output (shortened):
+
+Welcome to the Code Machine!
+Enter a message: wkh wuhdvxuh lv xqghu wkh ehg
+Shift 1: vjg vtgcuwtg ku wpfgt vjg dgf
+Shift 2: uif usfbtvsf jt voefs uif cfe
+Shift 3: the treasure is under the bed
+Shift 4: sgd sqdzrtqd hr tmcdq sgd adc
+...
+Shift 25: xli xviewyvi mw yrhiv xli fih
+
+
+
+Your program prints all 25 lines; the real message is the one you can read. Shift 3, here.
