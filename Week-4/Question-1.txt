@@ -1,0 +1,13 @@
+Ask the User
+Now update main so that it asks the user for a secret with input("Enter a secret: "), calls hide_vowels on it, and prints the result.
+
+
+
+Here is example output:
+
+Enter a secret: hello world
+h*ll* w*rld
+
+
+
+Notice that you did not have to change hide_vowels at all! You wrote it once, and now main can call it on anything the user types.
