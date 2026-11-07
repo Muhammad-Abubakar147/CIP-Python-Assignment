@@ -1,2 +1,1 @@
-Added readme file for week 2 
-
+# 🚀 Week 2 – Code in Place | Python Programming
