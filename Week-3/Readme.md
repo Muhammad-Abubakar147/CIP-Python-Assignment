@@ -20,3 +20,9 @@ My focus was on writing clean, structured, and efficient Python code while impro
 - Practicing loops and conditional statements.
 - Writing clean, readable, and maintainable code.
 - Breaking complex problems into smaller tasks.
+
+# 🎓 Program Information
+
+### Code in Place – Stanford University
+
+An introductory programming program based on Stanford's approach to teaching computer science using Python.
