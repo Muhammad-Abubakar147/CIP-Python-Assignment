@@ -1,0 +1,23 @@
+Polish
+Great work! Let's add a few finishing touches to make this a fun game to play :)
+
+
+
+Do the following:
+
+Use get_random_word() so the secret word is different every game.
+
+Accept any capitalisation by calling .lower() on the guess.
+
+If the guess is not exactly 5 letters, print Please enter a 5-letter word. and ask again. A typo must not use up one of the six guesses. You will need a while loop inside the for loop to do this!
+
+
+
+Example output:
+
+Welcome to Wordle!
+Enter your guess: cat
+Please enter a 5-letter word.
+Enter your guess: PLANT
+Result: [p] [l] [a] n t
+
