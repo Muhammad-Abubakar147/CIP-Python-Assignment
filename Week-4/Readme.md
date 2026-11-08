@@ -19,3 +19,10 @@ The assignments helped me practice writing structured code, understanding progra
 - Writing clean, readable, and organized Python code.
 - Applying previously learned concepts to new problems.
 - Building consistency through regular programming practice.
+
+## 🛠️ Technologies Used
+
+- **Language:** Python
+- **IDE:** VS Code
+- **Platform:** Stanford Code in Place
+- **Version Control:** Git & GitHub
