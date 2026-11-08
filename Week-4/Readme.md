@@ -26,3 +26,26 @@ The assignments helped me practice writing structured code, understanding progra
 - **IDE:** VS Code
 - **Platform:** Stanford Code in Place
 - **Version Control:** Git & GitHub
+
+## 💡 My Approach
+
+I focused on understanding each problem before writing code, breaking complex problems into smaller steps, and testing my solutions to improve their accuracy and readability.
+
+## 🚀 Key Takeaways
+
+Week 4 was another step forward in my programming journey. It helped me strengthen my problem-solving mindset and become more comfortable with implementing Python solutions.
+
+## 👨‍💻 About Me
+
+**Muhammad Abubakar**
+
+- 🎓 BS Zoology Student (2023–2027)
+- 💻 Python Developer | Aspiring AI & Machine Learning Engineer
+- 📊 Interested in Data Science, Machine Learning, and Artificial Intelligence.
+- 🌱 Continuously learning and building through practical projects.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [Muhammad-Abubakar147](https://github.com/Muhammad-Abubakar147)
+- **LinkedIn:** [Muhammad Abubakar](https://www.linkedin.com/in/muhammadabubakar147/)
+- **Portfolio:** [Visit My Portfolio](https://muhammad-abubakar147.netlify.app/)
