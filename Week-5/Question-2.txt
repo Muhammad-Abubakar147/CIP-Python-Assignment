@@ -1,0 +1,28 @@
+Keep Translating
+One sentence is not enough. Change main so that it keeps asking for sentences and printing their translations until the user presses enter without typing anything.
+
+
+
+Here is example output:
+
+Let's build your emoji dictionary! Press enter when you are done.
+Word: pizza
+Emoji for pizza: 🍕
+Word: love
+Emoji for love: ❤️
+Word: cat
+Emoji for cat: 🐱
+Word:
+Words in your dictionary: 3
+pizza: 🍕
+love: ❤️
+cat: 🐱
+Enter a sentence: I love pizza
+I ❤️ 🍕
+Enter a sentence: my cat loves tea
+my 🐱 loves tea
+Enter a sentence:
+
+
+
+Look at your main function. It doesn't say anything about how to build a dictionary, print one, or translate a sentence. Those jobs are each tucked inside a function with a name that says what it does, which is beautiful!
