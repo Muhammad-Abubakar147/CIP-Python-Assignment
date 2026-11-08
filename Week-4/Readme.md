@@ -9,3 +9,13 @@ This folder contains my solutions to the programming exercises and assignments p
 Week 4 focuses on applying Python programming concepts through practical coding exercises and problem-solving challenges.
 
 The assignments helped me practice writing structured code, understanding programming logic, and developing confidence in solving problems independently.
+
+
+## 🎯 Learning Objectives
+
+- Strengthening Python programming fundamentals.
+- Improving logical and analytical thinking.
+- Practicing problem-solving through coding challenges.
+- Writing clean, readable, and organized Python code.
+- Applying previously learned concepts to new problems.
+- Building consistency through regular programming practice.
