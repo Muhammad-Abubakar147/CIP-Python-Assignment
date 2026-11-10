@@ -10,3 +10,10 @@ Throughout this week, I focused on:
 - Improving logical thinking and problem-solving
 - Understanding user input and program flow.
 - Practicing structured programming techniques
+
+## 🛠️ Technologies Used
+
+- **Language:** Python
+- **Platform:** Stanford Code in Place
+- **Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
