@@ -17,3 +17,5 @@ Throughout this week, I focused on:
 - **Platform:** Stanford Code in Place
 - **Editor:** Visual Studio Code
 - **Version Control:** Git & GitHub
+
+## 💡 Key Takeaways
