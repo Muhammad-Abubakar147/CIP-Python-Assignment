@@ -20,4 +20,6 @@ My goal is to strengthen my Python fundamentals, develop computational thinking,
 - Practice problem-solving through coding assignments.
 - Work with lists, strings, and Python data structures.
 - Build interactive Python programs.
-- Improve code readability and programming practices.
+- Improve code readability and programming practices
+
+
