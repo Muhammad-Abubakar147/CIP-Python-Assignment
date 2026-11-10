@@ -8,3 +8,4 @@ Throughout this week, I focused on:
 - Writing reusable functions and clean code.
 - Working with dictionaries and data structures.
 - Improving logical thinking and problem-solving
+- Understanding user input and program flow.
