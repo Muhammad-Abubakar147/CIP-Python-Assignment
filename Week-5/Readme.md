@@ -19,3 +19,19 @@ Throughout this week, I focused on:
 - **Version Control:** Git & GitHub
 
 ## 💡 Key Takeaways
+This week's assignments provided an opportunity to apply Python concepts through hands-on coding exercises.
+
+My main focus was not just completing assignments but understanding the underlying logic, writing readable code, and developing independent problem-solving skills.
+
+## 🎓 Program Information
+
+- **Program:** Stanford Code in Place
+- **University:** Stanford University
+- **Course:** Introduction to Python Programming
+- **Week:** 05
+
+## 👨‍💻 Author
+
+**Muhammad Abubakar**
+
+Final-Year BS Zoology Student | Python Developer | AI & Machine Learning Enthusiast
