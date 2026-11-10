@@ -4,3 +4,4 @@ This folder contains my Week 5 programming assignments, completed as part of the
 
 ## 🎯 Learning Objectives
 Throughout this week, I focused on:
+- Strengthening Python programming fundamentals.
