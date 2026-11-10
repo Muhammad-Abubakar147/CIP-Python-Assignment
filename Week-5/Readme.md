@@ -6,3 +6,4 @@ This folder contains my Week 5 programming assignments, completed as part of the
 Throughout this week, I focused on:
 - Strengthening Python programming fundamentals.
 - Writing reusable functions and clean code.
+- Working with dictionaries and data structures.
