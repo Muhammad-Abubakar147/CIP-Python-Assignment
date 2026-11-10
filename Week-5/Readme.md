@@ -7,3 +7,4 @@ Throughout this week, I focused on:
 - Strengthening Python programming fundamentals.
 - Writing reusable functions and clean code.
 - Working with dictionaries and data structures.
+- Improving logical thinking and problem-solving
