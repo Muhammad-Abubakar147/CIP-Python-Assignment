@@ -9,3 +9,4 @@ Throughout this week, I focused on:
 - Working with dictionaries and data structures.
 - Improving logical thinking and problem-solving
 - Understanding user input and program flow.
+- Practicing structured programming techniques
