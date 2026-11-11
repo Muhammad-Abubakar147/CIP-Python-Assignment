@@ -53,3 +53,23 @@ Code in Place is a free online programming course offered by Stanford University
 Participation in the program is documented here as a learning experience. This repository does not represent a degree, university credit, or certification.
 
 ---
+## Weekly Learning Roadmap
+
+Select a week to open its folder of assignment questions and solutions.
+
+<!--
+  MAINTENANCE TIP
+  To add a new week:
+  1. Create the folder (for example: Week-6).
+  2. Copy one of the rows below and update the week number, description, and link.
+  3. Replace the placeholder description with the actual topic once documented.
+-->
+
+| Week | Focus | Explore |
+| :--- | :--- | :--- |
+| **Week 1** | Core concepts and assignments for Week 1 | [Open folder →](./Week-1) |
+| **Week 2** | Core concepts and assignments for Week 2 | [Open folder →](./Week-2) |
+| **Week 3** | Core concepts and assignments for Week 3 | [Open folder →](./Week-3) |
+| **Week 4** | Core concepts and assignments for Week 4 | [Open folder →](./Week-4) |
+| **Week 5** | Core concepts and assignments for Week 5 | [Open folder →](./Week-5) |
+| **Week 6 onward** | Future weeks will be added as the journey continues | Coming soon |
