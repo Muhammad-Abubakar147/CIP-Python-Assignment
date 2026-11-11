@@ -9,3 +9,5 @@
 <em>Learning Python. Solving Problems. Building Consistency.</em>
 <br />
 <br />
+<strong>CIP Python Assignments</strong>
+<br />
