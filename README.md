@@ -37,3 +37,6 @@ This repository documents my complete learning journey through Stanford Universi
 The repository is organized week by week. Each week has its own folder, so the work can be explored in the same order the course was taught, or any single week can be reviewed on its own.
 
 **How to explore this repository**
+1. Open the [Weekly Learning Roadmap](#weekly-learning-roadmap) and choose a week.
+2. Read the assignment questions inside that week's folder.
+3. Review my Python solution and the approach behind it.
