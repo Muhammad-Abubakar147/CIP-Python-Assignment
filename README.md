@@ -11,3 +11,6 @@
 <br />
 <strong>CIP Python Assignments</strong>
 <br />
+Weekly assignments and solutions 
+
+<br />
