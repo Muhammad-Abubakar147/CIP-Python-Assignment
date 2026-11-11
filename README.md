@@ -30,3 +30,10 @@ Weekly assignments and solutions
 </div>
 
 ---
+## About the Repository
+
+This repository documents my complete learning journey through Stanford University's **Code in Place** program. It brings together the weekly Python programming questions and assignments provided by Code in Place, along with my own solutions.
+
+The repository is organized week by week. Each week has its own folder, so the work can be explored in the same order the course was taught, or any single week can be reviewed on its own.
+
+**How to explore this repository**
