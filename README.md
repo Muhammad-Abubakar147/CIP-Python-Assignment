@@ -13,12 +13,11 @@
 <br />
 Weekly assignments and solutions 
 
-<br />
-![Program](https://img.shields.io/badge/Program-Stanford_Code_in_Place-8C1515?style=flat-square&labelColor=0D1117)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![Structure](https://img.shields.io/badge/Structure-Week_by_Week-0D1117?style=flat-square)
-
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Program-Stanford%20Code%20in%20Place-8C1515?style=for-the-badge&labelColor=0D1117" alt="Stanford Code in Place">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python">
+  <img src="https://img.shields.io/badge/Structure-Week%20by%20Week-30363D?style=for-the-badge&labelColor=0D1117" alt="Weekly Structure">
+</p>
 
 [About](#about-the-repository) &nbsp;·&nbsp;
 [Roadmap](#weekly-learning-roadmap) &nbsp;·&nbsp;
