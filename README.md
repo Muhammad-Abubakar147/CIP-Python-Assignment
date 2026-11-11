@@ -7,3 +7,5 @@
 <h3>Python Programming Journey</h3>
 
 <em>Learning Python. Solving Problems. Building Consistency.</em>
+<br />
+<br />
