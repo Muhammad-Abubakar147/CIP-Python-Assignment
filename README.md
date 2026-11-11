@@ -14,3 +14,8 @@
 Weekly assignments and solutions 
 
 <br />
+![Program](https://img.shields.io/badge/Program-Stanford_Code_in_Place-8C1515?style=flat-square&labelColor=0D1117)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![Structure](https://img.shields.io/badge/Structure-Week_by_Week-0D1117?style=flat-square)
+
+<br />
