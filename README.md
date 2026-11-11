@@ -73,3 +73,100 @@ Select a week to open its folder of assignment questions and solutions.
 | **Week 4** | Core concepts and assignments for Week 4 | [Open folder →](./Week-4) |
 | **Week 5** | Core concepts and assignments for Week 5 | [Open folder →](./Week-5) |
 | **Week 6 onward** | Future weeks will be added as the journey continues | Coming soon |
+
+
+---
+
+## What I Have Learned
+
+| Concept | What it covers |
+| :--- | :--- |
+| **Python fundamentals** | Syntax, program structure, and writing clear, readable code |
+| **Variables and data types** | Storing, converting, and working with numbers, text, and boolean values |
+| **Conditional statements** | Controlling program flow with `if`, `elif`, and `else` logic |
+| **Loops** | Repeating tasks efficiently with `for` and `while` loops |
+| **Functions** | Breaking problems into reusable, well-named pieces of logic |
+| **Lists and dictionaries** | Organizing and accessing collections of related data |
+| **String manipulation** | Processing, formatting, and transforming text |
+| **Problem-solving and logical thinking** | Decomposing a problem and building a solution step by step |
+
+<sub>This list reflects the core topics of an introductory Python course and will be refined as each week's folder is documented in more detail.</sub>
+
+---
+
+## Technical Skills & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-0D1117?style=flat-square)
+![Programming Fundamentals](https://img.shields.io/badge/Programming_Fundamentals-0D1117?style=flat-square)
+
+</div>
+
+---
+
+## Repository Structure
+
+Each `Week-N` folder contains the programming questions provided by Stanford Code in Place for that week, together with my own Python solutions.
+
+```text
+CIP-Python-Assignments/
+├── Week-1/
+├── Week-2/
+├── Week-3/
+├── Week-4/
+├── Week-5/
+├── Week-N/        # future weeks follow the same naming pattern
+└── README.md
+```
+
+---
+
+## Learning Philosophy
+
+- **Consistency over intensity.** Steady, regular practice builds lasting skill more reliably than occasional bursts of effort.
+- **Practical learning.** Concepts only become clear when applied, so every idea is reinforced by writing real code.
+- **Independent problem-solving.** I attempt each problem on my own first, reasoning through the logic before looking for outside help.
+- **Continuous improvement.** Every solution is a chance to refine readability, structure, and efficiency.
+
+---
+
+## About Me
+
+I am **Muhammad Abubakar**, a final-year BS Zoology student and Python developer with a growing focus on AI and Machine Learning.
+
+**Python Developer | AI & Machine Learning Enthusiast**
+
+My interests include Data Science, Artificial Intelligence, and Software Development. I use projects like this one to build strong programming fundamentals through consistent, hands-on practice.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abubakar147)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Abubakar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammadabubakar147/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Website-0D1117?style=for-the-badge)](https://muhammad-abubakar147.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thank You for Visiting
+
+Whether you are a learner starting your own Python journey, a developer reviewing different approaches, or a recruiter evaluating my work, you are welcome to explore the weekly folders and follow the progression from week to week.
+
+Questions, feedback, and suggestions are always welcome. If you find this repository useful, consider giving it a star.
+
+<br />
+
+<sub>Maintained by <strong>Muhammad Abubakar</strong></sub>
+
+</div>
