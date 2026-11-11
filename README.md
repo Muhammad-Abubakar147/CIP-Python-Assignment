@@ -46,3 +46,10 @@ The repository is organized week by week. Each week has its own folder, so the w
 > If you are currently taking a course, please follow its academic integrity guidelines and use this repository for reference and learning rather than copying.
 
 ---
+## About Stanford Code in Place
+
+Code in Place is a free online programming course offered by Stanford University. It introduces the fundamentals of programming using Python, guiding learners through lessons and hands-on programming assignments that build problem-solving skills step by step.
+
+Participation in the program is documented here as a learning experience. This repository does not represent a degree, university credit, or certification.
+
+---
