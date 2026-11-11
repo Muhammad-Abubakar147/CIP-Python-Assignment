@@ -40,3 +40,9 @@ The repository is organized week by week. Each week has its own folder, so the w
 1. Open the [Weekly Learning Roadmap](#weekly-learning-roadmap) and choose a week.
 2. Read the assignment questions inside that week's folder.
 3. Review my Python solution and the approach behind it.
+> [!NOTE]
+> The assignment questions are created and provided by Stanford Code in Place and are included here for context. The solutions are my own work. This is a personal learning repository and is not an official Stanford University resource.
+>
+> If you are currently taking a course, please follow its academic integrity guidelines and use this repository for reference and learning rather than copying.
+
+---
