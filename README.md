@@ -19,3 +19,14 @@ Weekly assignments and solutions
 ![Structure](https://img.shields.io/badge/Structure-Week_by_Week-0D1117?style=flat-square)
 
 <br />
+
+[About](#about-the-repository) &nbsp;·&nbsp;
+[Roadmap](#weekly-learning-roadmap) &nbsp;·&nbsp;
+[Learning](#what-i-have-learned) &nbsp;·&nbsp;
+[Skills](#technical-skills--tools) &nbsp;·&nbsp;
+[Structure](#repository-structure) &nbsp;·&nbsp;
+[Connect](#connect-with-me)
+
+</div>
+
+---
