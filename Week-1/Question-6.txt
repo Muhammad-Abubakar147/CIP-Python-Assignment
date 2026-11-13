@@ -1,0 +1,18 @@
+A twist on Guess My Animal from week 1 section. Try it yourself, then compare your code with the solution.
+
+
+
+When the player guesses right, celebrate! Ask GPT for an emoji of the animal and print it after "Correct!".
+
+
+
+Here is a sample run:
+
+
+
+I am thinking of an animal.
+Can you guess what animal it is?
+Ask me a yes or no question: does it have stripes?
+Yes.
+Ask me a yes or no question: is it a zebra?
+Correct!
