@@ -166,6 +166,6 @@ Questions, feedback, and suggestions are always welcome. If you find this reposi
 
 <br />
 
-<sub>Maintained by <strong>Muhammad Abubakar</strong></sub>
+<sub>Maintained by <strong>**Muhammad Abubakar**</strong></sub>
 
 </div>
