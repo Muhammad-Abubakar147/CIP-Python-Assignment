@@ -1,0 +1,18 @@
+A twist on Guess My Animal from week 1 section. Try it yourself, then compare your code with the solution.
+
+
+
+Ask for the player's name at the start. If it's your section leader's name, roll out the red carpet! Everyone else gets a normal welcome. Make it work even if they type the name in capital letters.
+
+
+
+Here is a sample run, where the section leader is named Sam:
+
+
+
+What's your name? SAM
+Welcome, VIP SAM! The red carpet is ready for you.
+I am thinking of an animal.
+Can you guess what animal it is?
+Ask me a yes or no question: is it a zebra?
+Correct!
