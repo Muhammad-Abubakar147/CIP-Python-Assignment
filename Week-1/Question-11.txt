@@ -1,0 +1,19 @@
+A twist on Guess My Animal from week 1 section. Try it yourself, then compare your code with the solution.
+
+
+
+Ask the player if they want easy mode. In easy mode, GPT adds a small clue to every answer. Otherwise, GPT only says Yes or No.
+
+
+
+Here is a sample run:
+
+
+
+Easy mode? Type yes or no: yes
+I am thinking of an animal.
+Can you guess what animal it is?
+Ask me a yes or no question: does it live in the ocean?
+No, but it lives in Africa.
+Ask me a yes or no question: is it a zebra?
+Correct!
