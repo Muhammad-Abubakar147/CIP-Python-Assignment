@@ -1,0 +1,22 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+You can answer correctly forever, but Khansole Academy never lets you finish! Find the bug and fix it.
+
+
+
+Here is what happens now:
+
+
+
+Khansole Academy
+What is 55 + 11?
+Your answer: 66
+Correct!
+You've gotten 1 correct in a row.
+
+What is 84 + 25?
+Your answer: 109
+Correct!
+You've gotten 1 correct in a row.
