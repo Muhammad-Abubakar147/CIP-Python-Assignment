@@ -1,0 +1,17 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Plain math problems are a little boring. Ask GPT to turn each problem into a one-sentence story, and show the story in place of "What is ...?".
+
+
+
+Here is a sample run:
+
+
+
+Khansole Academy
+Maya has 23 stickers and her friend gives her 45 more. How many stickers does Maya have now?
+Your answer: 68
+Correct!
+You've gotten 1 correct in a row.
