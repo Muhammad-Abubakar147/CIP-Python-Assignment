@@ -1,0 +1,25 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Three in a row is a lot of pressure! At the start, ask the player how many correct answers in a row they want to get. Then keep going until they reach their goal.
+
+
+
+Here is a sample run:
+
+
+
+Khansole Academy
+How many in a row do you want to get? 2
+What is 42 + 17?
+Your answer: 59
+Correct!
+You've gotten 1 correct in a row.
+
+What is 63 + 25?
+Your answer: 88
+Correct!
+You've gotten 2 correct in a row.
+
+Congratulations! You mastered addition.
