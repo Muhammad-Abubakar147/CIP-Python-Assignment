@@ -1,0 +1,22 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Khansole Academy only teaches addition. Turn it into a multiplication tables trainer! Have the computer pick two random numbers from 2 to 12, and ask the player to multiply them.
+
+
+
+Here is a sample run:
+
+
+
+Khansole Academy
+What is 7 x 8?
+Your answer: 54
+Incorrect.
+The expected answer is 56
+
+What is 6 x 12?
+Your answer: 72
+Correct!
+You've gotten 1 correct in a row.
