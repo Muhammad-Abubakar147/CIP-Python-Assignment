@@ -1,0 +1,17 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Something is off! The player types the right answer, and Khansole Academy still says it is wrong. Find the bug and fix it!
+
+
+
+Here is what happens now:
+
+
+
+Khansole Academy
+What is 55 + 11?
+Your answer: 66
+Incorrect.
+The expected answer is 66
