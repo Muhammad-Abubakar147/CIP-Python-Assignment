@@ -1,0 +1,22 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Time to practice division! Ask division problems where the answer is always a whole number, like 42 / 6. No leftovers allowed!
+
+
+
+Here is a sample run:
+
+
+
+Khansole Academy
+What is 42 / 6?
+Your answer: 7
+Correct!
+You've gotten 1 correct in a row.
+
+What is 36 / 4?
+Your answer: 8
+Incorrect.
+The expected answer is 9
