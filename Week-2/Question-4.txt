@@ -1,0 +1,17 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Two numbers is too easy. Add a third number to every problem!
+
+
+
+Here is a sample run:
+
+
+
+Khansole Academy
+What is 23 + 45 + 17?
+Your answer: 85
+Correct!
+You've gotten 1 correct in a row.
