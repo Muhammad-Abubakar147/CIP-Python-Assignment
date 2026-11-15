@@ -1,0 +1,29 @@
+A twist on Khansole Academy from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Start easy and get harder! The first problem uses numbers up to 10. Each correct answer allows bigger numbers: up to 100, then up to 1000. A wrong answer goes back to numbers up to 10.
+
+
+
+Here is a sample run:
+
+
+
+Khansole Academy
+What is 4 + 7?
+Your answer: 11
+Correct!
+You've gotten 1 correct in a row.
+
+What is 52 + 38?
+Your answer: 90
+Correct!
+You've gotten 2 correct in a row.
+
+What is 640 + 215?
+Your answer: 855
+Correct!
+You've gotten 3 correct in a row.
+
+Congratulations! You mastered addition.
