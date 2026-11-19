@@ -1,0 +1,28 @@
+Save the conversation as a list of dictionaries, one per message. Each message has a role (who said it) and content (what they said). Here is an example of a conversation:
+
+messages = [
+    {"role": "user", "content": "My name is Sam."},
+    {"role": "assistant", "content": "Hi Sam, nice to meet you!"},
+]
+
+
+
+To implement this, follow these steps:
+
+
+
+
+
+Write a function make_message(role, content) that returns one message dictionary.
+
+
+
+In main, create an empty list called messages. 
+
+
+
+Each time the user types a message, append a message to the list where the role is user. Each time the bot replies, append a message where the role is assistant.
+
+
+
+After this milestone, your program output will not look any different than milestone 1.
