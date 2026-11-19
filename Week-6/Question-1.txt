@@ -1,0 +1,11 @@
+Start by printing Chat with the bot! (press Enter to quit). Then write a chat loop in main. Ask the user for a message with input("You: "), send it to call_gpt, and print the reply with "Bot: " in front. Stop when the user presses enter without typing anything.
+
+
+
+Here is example output:
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Hi Sam, nice to meet you! What can I help you with today?
+You: What's my name?
+Bot: I'm sorry, I don't know your name. Could you tell me?
