@@ -1,0 +1,59 @@
+Rewind
+When the user types rewind, remove the last exchange from messages, so the bot forgets it. An exchange is two messages: the user's message and the bot's reply.
+
+
+
+To do this, you will use a slice. A slice makes a new list from part of a list. my_list[:n] gives every item before index n:
+
+letters = ["a", "b", "c", "d"]
+first_two = letters[:2]
+Now first_two is ["a", "b"]. The original list letters does not change.
+
+
+
+Follow these steps:
+
+Write a function rewind(messages) that returns a slice of messages without its last two messages. Hint: the slice should stop before index len(messages) - 2. If messages has fewer than 3 messages, there is nothing to rewind, so return messages unchanged. This keeps the system message safe.
+
+In main, when the user types rewind, set messages = rewind(messages) instead of sending anything to call_gpt. You need the messages = part because a slice is a new list. rewind does not change the original list.
+
+Then print how many messages are left, like Rewound! The record has 3 messages. Start the line with INDENT.
+
+
+
+For example, here is messages before a rewind:
+
+messages = [
+    {"role": "system", "content": PERSONALITY},
+    {"role": "user", "content": "My name is Sam."},
+    {"role": "assistant", "content": "Nice to meet you, Sam!"},
+    {"role": "user", "content": "Tell me a fun fact about octopuses."},
+    {"role": "assistant", "content": "Octopuses have three hearts and blue blood!"},
+]
+rewind(messages) returns messages[:3], which is everything except the last exchange:
+
+[
+    {"role": "system", "content": PERSONALITY},
+    {"role": "user", "content": "My name is Sam."},
+    {"role": "assistant", "content": "Nice to meet you, Sam!"},
+]
+
+
+Here is example output of your program after this milestone:
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Nice to meet you, Sam!
+You: Tell me a fun fact about octopuses.
+Bot: Octopuses have three hearts and blue blood!
+You: rewind
+    Rewound! The record has 3 messages.
+You: Tell me a fun fact about otters.
+Bot: Otters hold hands while they sleep so they don't drift apart.
+You: What fun facts have you told me?
+Bot: Just one so far: otters hold hands while they sleep!
+
+
+
+Try it: ask for a fun fact, type rewind, ask for a different one, and then ask the bot which facts it has told you.
+
