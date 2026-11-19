@@ -1,0 +1,29 @@
+Milestone 7 of 8 · Optional
+Memory Budget
+AI models can only read so much text at once. Give your bot a memory budget: when the conversation gets too long, it forgets the oldest messages.
+
+
+
+Follow these steps:
+
+Make a constant MAX_WORDS = 150. Write a function count_words(messages) that returns the total number of words in the content of every message, including the system message. Hint: len(text.split()) counts the words in text.
+
+Write a function forget(messages) that returns a new list with the system message, followed by everything after the 4 oldest messages. The system message is at index 0 and the 4 oldest messages are at indices 1 to 4, so join messages[:1] with a slice that starts at index 5. Hint: my_list[n:] gives every item from index n to the end, and + joins two lists. If messages has fewer than 6 messages, return it unchanged.
+
+In main, after you append the user's message, check whether count_words(messages) is more than MAX_WORDS. If it is, set messages = forget(messages) and print how many messages and words are left, like My memory was full! Now I remember 6 messages, 116 words. Start the line with INDENT.
+
+
+
+For example, if messages is [system, m1, m2, m3, m4, m5, m6], then forget(messages) returns [system, m5, m6].
+
+
+
+Here is example output of your program after this milestone:
+
+You: What's my name and favorite color?
+    My memory was full! Now I remember 6 messages, 116 words.
+Bot: I don't know your name or favorite color yet, dough-friend!
+
+
+
+Try it: tell your bot your name and favorite color, chat until its memory fills up, and then ask about them.
