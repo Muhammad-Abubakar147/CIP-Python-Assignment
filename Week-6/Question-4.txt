@@ -1,0 +1,31 @@
+Give It a Memory
+To give the bot a memory, send it the whole conversation every time, not just the newest message. Follow these steps:
+
+
+
+Write a function format_messages(messages) that returns the conversation as one string. Put each message on its own line, starting with "User: " for user messages and "Assistant: " for the bot's messages. Then add "Assistant:" to the end of the string so the AI knows it is its turn to talk. For example, the function format_messages turns this list:
+
+[
+    {"role": "user", "content": "My name is Sam."},
+    {"role": "assistant", "content": "Nice to meet you, Sam."},
+    {"role": "user", "content": "What's my name?"},
+]
+into this string:
+
+"User: My name is Sam.
+Assistant: Nice to meet you, Sam.
+User: What's my name?
+Assistant:"
+
+
+In main, after you append the user's message, add prompt = format_messages(messages) followed by call_gpt(prompt) to get the bot's response, instead of sending only the newest message. This way, you are passing the whole conversation to GPT.
+
+
+
+Here is example output of your program after this milestone:
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Nice to meet you, Sam. How can I help you today?
+You: What's my name?
+Bot: Your name is Sam!
