@@ -1,0 +1,28 @@
+Peek at the Record
+Add a peek command that prints everything your program has saved in messages.
+
+
+
+To implement this, follow these steps:
+
+Make a constant INDENT = "    " (four spaces) at the top of your file.
+
+Write a function peek(messages) that prints how many messages are in the list, then each message's role and content. Start every line it prints with INDENT, for example print(f"{INDENT}The record has {len(messages)} messages:").
+
+In main, when the user types peek, call peek(messages) instead of sending anything to call_gpt. Do not add peek to messages.
+
+
+
+Here is example output of the program after this milestone:
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Nice to meet you, Sam. How can I help you today?
+You: What's my name?
+Bot: I'm sorry, I don't know your name. Could you tell me?
+You: peek
+    The record has 4 messages:
+    user: My name is Sam.
+    assistant: Nice to meet you, Sam. How can I help you today?
+    user: What's my name?
+    assistant: I'm sorry, I don't know your name. Could you tell me?
