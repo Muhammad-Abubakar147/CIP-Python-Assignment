@@ -1,0 +1,36 @@
+Compact
+When your bot forgets, everything in the old messages is lost. Real chatbots often compact instead: they ask the AI to summarize the old messages, and keep only the summary.
+
+
+
+Follow these steps:
+
+Write a function compact(messages). If messages has fewer than 3 messages, there is nothing to summarize, so return it unchanged.
+
+Get the old messages: every message except the first (the system message) and the last (the newest message). Use the slice messages[1:len(messages) - 1]. my_list[a:b] gives the items from index a up to, but not including, index b.
+
+Ask call_gpt to summarize the old messages. Send it an instruction like "Summarize this conversation in two or three sentences. Keep names and anything the user said about themselves." followed by format_messages of the old messages.
+
+Return a new list with three messages: the system message, a new system message whose content is Summary of the conversation so far:  followed by the summary, and the newest message.
+
+In main, when the memory is full, ask the user to type forget or compact, as shown below. If they type compact, set messages = compact(messages). Otherwise, set messages = forget(messages). Then print how many messages and words are left, starting with INDENT.
+
+
+
+Here is example output of your program after this milestone:
+
+You: What's my name and favorite color?
+    My memory is full (181 words)! Type 'forget' or 'compact': forget
+    Now I remember 6 messages, 116 words.
+Bot: I don't know your name or favorite color yet, dough-friend!
+
+
+
+You: What's my name and favorite color?
+    My memory is full (181 words)! Type 'forget' or 'compact': compact
+    Now I remember 3 messages, 89 words.
+Bot: Your name is Sam, and your favorite color is teal!
+
+
+
+Try it: tell your bot your name and favorite color, chat until its memory fills up, and then ask about them. Try once with forget and once with compact. Then keep chatting and compact a few times in a row. What survives a summary of a summary?
