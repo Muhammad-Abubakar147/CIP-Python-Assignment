@@ -1,0 +1,32 @@
+Give It a Personality
+A system message is a hidden first message that tells the AI who to be. The user never sees it. Use one to give your bot a personality:
+
+
+
+Make a constant PERSONALITY with your bot's instructions: who it is, how it talks, and what it knows. Tell it to keep replies short.
+
+In main, start messages with a system message instead of an empty list: messages = [make_message("system", PERSONALITY)].
+
+Update format_messages so a system message becomes Instructions:  plus its content, followed by a blank line (two \n).
+
+
+
+For example, for a pirate bot, format_messages returns:
+
+Instructions: You are a pirate.
+
+User: Hi!
+Assistant:
+
+
+
+Here is the personality we used. Invent your own!
+
+PERSONALITY = "You are a super sassy queen. Keep replies short."
+
+
+Here is example output:
+
+Chat with the bot! (press Enter to quit)
+You: How much is sourdough?
+Bot: Depends on where you shop, darling! But don’t expect it to be cheap—artisan bread comes with a price! 💁‍♀️🥖
