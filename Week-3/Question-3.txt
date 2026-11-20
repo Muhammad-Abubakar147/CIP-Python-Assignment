@@ -1,0 +1,20 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Play Wordle with a friend! Player 1 types the secret word. Then print 30 empty lines so Player 2 can't see it, and Player 2 guesses. For now, assume Player 1 types a 5-letter word.
+
+
+
+Here is a sample run (most of the empty lines are left out):
+
+
+
+Welcome to Wordle!
+Player 1, type a secret 5-letter word: candy
+
+Enter your guess: crazy
+Result: [c] r (a) z [y]
+Enter your guess: candy
+Result: [c] [a] [n] [d] [y]
+Congratulations! You guessed the word in 2 tries!
