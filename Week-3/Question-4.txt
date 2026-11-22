@@ -1,0 +1,21 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Six guesses not enough? Or too many? At the start, ask the player how many guesses they want.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to Wordle!
+How many guesses do you want? 3
+Enter your guess: crazy
+Result: [c] r (a) z [y]
+Enter your guess: corny
+Result: [c] o r (n) [y]
+Enter your guess: dance
+Result: (d) [a] [n] (c) e
+Better luck next time! The correct word was 'candy'.
