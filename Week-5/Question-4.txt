@@ -1,0 +1,15 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+The code machine crashes before it prints anything! There is something wrong with the function decode. Find the bug and fix it.
+
+
+
+Here is what happens now (shortened):
+
+
+
+Welcome to the Code Machine!
+Enter a message: wkh wuhdvxuh lv xqghu wkh ehg
+TypeError: decode() takes 1 positional argument but 2 were given
