@@ -71,7 +71,7 @@ Select a week to open its folder of assignment questions and solutions.
 | **Week 3** | Core concepts and assignments for Week 3 | [Open folder →](https://github.com/Muhammad-Abubakar147/CIP-Python-Assignment/tree/main/Week-3) |
 | **Week 4** | Core concepts and assignments for Week 4 | [Open folder →](https://github.com/Muhammad-Abubakar147/CIP-Python-Assignment/tree/main/Week-4) |
 | **Week 5** | Core concepts and assignments for Week 5 | [Open folder →](https://github.com/Muhammad-Abubakar147/CIP-Python-Assignment/tree/main/Week-5) |
-| **Week 6 onward** | Future weeks will be added as the journey continues | Coming soon |
+| **Week 6 onward** |Core concepts and assignments for Week 6 [Open folder]()
 
 
 ---
