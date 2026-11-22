@@ -1,0 +1,23 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Every Shift line says None, and the decoded messages are printing on their own lines instead! Find the bug and fix it.
+
+
+
+Here is what happens now (shortened):
+
+
+
+Welcome to the Code Machine!
+Enter a message: khoor
+jgnnq
+Shift 1: None
+ifmmp
+Shift 2: None
+hello
+Shift 3: None
+...
+lipps
+Shift 25: None
