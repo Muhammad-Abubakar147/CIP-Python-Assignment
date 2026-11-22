@@ -31,3 +31,13 @@ This folder contains my Python programming assignments, questions, and solutions
 Completing all six weeks of Stanford Code in Place has been an important milestone in my programming journey.
 
 Throughout this program, I had the opportunity to learn Python, interact with international participants, exchange ideas, and improve my problem-solving abilities.
+
+## 🙌 Acknowledgments
+
+Special thanks to **Stanford University**, the Code in Place team, and my section leader for their continuous guidance, support, and encouragement throughout this journey.
+
+---
+
+**Program:** Stanford University – Code in Place  
+**Week:** 06 (Final Week)  
+**Status:** Completed ✅
