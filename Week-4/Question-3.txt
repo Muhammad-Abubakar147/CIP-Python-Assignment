@@ -1,0 +1,27 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+When the user types a word that is already in the dictionary, print the emoji it has now, then ask for its new emoji like before.
+
+
+
+Here is a sample run:
+
+
+
+Let's build your emoji dictionary! Press enter when you are done.
+Word: pizza
+Emoji for pizza: 🍕
+Word: pizza
+pizza already has an emoji: 🍕
+Emoji for pizza: 🍝
+Word: cat
+Emoji for cat: 🐱
+Word:
+Words in your dictionary: 2
+pizza: 🍝
+cat: 🐱
+Enter a sentence: I love pizza
+I love 🍝
+Enter a sentence:
