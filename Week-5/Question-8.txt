@@ -1,0 +1,15 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+The code machine crashes with a strange error about -. Someone swapped two things in crack. Find the bug and fix it.
+
+
+
+Here is what happens now (shortened):
+
+
+
+Welcome to the Code Machine!
+Enter a message: wkh wuhdvxuh lv xqghu wkh ehg
+TypeError: bad operand type for unary -: 'str'
