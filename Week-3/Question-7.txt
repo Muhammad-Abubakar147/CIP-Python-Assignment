@@ -1,0 +1,23 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+In the real Wordle, you can see all of your guesses at once. After each guess, show every result so far, one per line.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to Wordle!
+Enter your guess: crazy
+Result: [c] r (a) z [y]
+Enter your guess: corny
+Result: [c] r (a) z [y]
+Result: [c] o r (n) [y]
+Enter your guess: candy
+Result: [c] r (a) z [y]
+Result: [c] o r (n) [y]
+Result: [c] [a] [n] [d] [y]
+Congratulations! You guessed the word in 3 tries
