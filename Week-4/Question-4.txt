@@ -1,0 +1,18 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+The translator crashes when we type a sentence! Find the bug and fix it.
+
+
+
+Here is what happens now (shortened):
+
+
+
+Words in your dictionary: 3
+pizza: 🍕
+love: ❤️
+cat: 🐱
+Enter a sentence: I love pizza
+KeyError: 'i'
