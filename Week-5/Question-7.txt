@@ -1,0 +1,28 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Spies use a key letter instead of a shift number. Key a means shift 0, b means shift 1, c means shift 2, and so on.
+
+
+
+
+
+
+
+Write a function letter_to_shift(key) that returns the shift for a key letter.
+
+
+
+Instead of cracking the message, ask for a key letter and print the message encoded with that key's shift.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to the Code Machine!
+Enter a message: meet me at noon
+Enter a key letter: d
+Secret: phhw ph dw qrrq
