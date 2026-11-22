@@ -1,0 +1,9 @@
+ans
+
+*A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.*
+
+Write two functions that each return a ready-made dictionary: `food_pack()` with pizza 🍕, taco 🌮 and apple 🍎, and `animal_pack()` with cat 🐱, dog 🐶 and fish 🐟. In the `main` function, ask the user which pack they want and use it.
+
+Here is a sample run:
+
+Pick a pack (food or animals): food Words in your dictionary: 3 pizza: 🍕 taco: 🌮 apple: 🍎 Enter a sentence: I want a taco I want a 🌮 Enter a sentence:
