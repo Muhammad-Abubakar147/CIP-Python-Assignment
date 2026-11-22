@@ -1,0 +1,54 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Wordle could use some team spirit! After each wrong guess, cheer the player on with a different message every time.
+
+
+
+Use these cheers, in this order, one for each wrong guess:
+
+
+
+
+
+
+
+Nice start!
+
+
+
+Keep going!
+
+
+
+You're getting closer!
+
+
+
+Don't give up!
+
+
+
+One guess left!
+
+
+
+Good try!
+
+
+
+Here is a sample run:
+
+
+
+Welcome to Wordle!
+Enter your guess: crazy
+Result: [c] r (a) z [y]
+Nice start!
+Enter your guess: corny
+Result: [c] o r (n) [y]
+Keep going!
+Enter your guess: candy
+Result: [c] [a] [n] [d] [y]
+Congratulations! You guessed the word in 3 tries!
