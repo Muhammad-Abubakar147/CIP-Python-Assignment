@@ -10,3 +10,11 @@ This folder contains my Python programming assignments, questions, and solutions
 |---|---|
 | `Question-1.txt` – `Question-8.txt` | Assignment questions |
 | `Sol-1.py` – `Sol-8.py` | Python solutions |
+
+## 🎯 What I Learned
+
+- Strengthened Python programming skills.
+- Improved logical thinking and problem-solving.
+- Practiced writing clean and structured Python code.
+- Worked on different programming challenges.
+- Applied programming concepts through practical assignments.
