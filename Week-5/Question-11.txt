@@ -1,0 +1,18 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Define a function spy_message(topic) which asks call_gpt to write a short secret spy message about topic and returns it. Instead of cracking a message the user types, ask for a topic, encode the spy message with a random shift, and print only the secret. Nobody knows what it says, not even the driver! When the user presses enter, crack it.
+
+
+
+Here is a sample run (shortened):
+
+
+
+Welcome to the Code Machine!
+Enter a topic: pizza
+Secret briefing: aol wpggh kyvw pz ha tpkupnoa if aol vsk vhr ayll
+Can anyone crack it? Press enter to find out. 
+Shift 1: znk voffg jxuv oy gz sojtomnz he znk urj ugq zxkk
+Shift 2: ymj uneef iwtu nx fy rnisnlmy gd ymj tqi tfp ywjj
