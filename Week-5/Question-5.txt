@@ -1,0 +1,32 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Sometimes code breakers know one word that is in the secret message. Change the program to:
+
+
+
+
+
+
+
+Ask the user for a word.
+
+
+
+Pass that word into crack as a second parameter.
+
+
+
+Print only the shifts whose decoded message contains that word.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to the Code Machine!
+Enter a message: atkkl alcej ty esp alcv
+A word you think is in it: party
+Shift 11: pizza party in the park
