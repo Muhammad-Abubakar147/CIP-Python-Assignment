@@ -1,0 +1,13 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+One lock is good, two are better! Write a function double_lock(message, n) that encodes the message by n, then encodes the result by n again, and returns it. Instead of cracking the message, ask for a shift and print the double-locked message.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to the Code Machine!
