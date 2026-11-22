@@ -1,0 +1,22 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Make a themed Wordle! Instead of the big word list, pick the secret word at random from this list of animals:
+
+
+
+WORDS = ["zebra", "tiger", "camel", "horse", "sheep"]
+
+
+
+Here is a sample run:
+
+
+
+Welcome to Wordle!
+Enter your guess: zebra
+Result: z (e) b (r) a
+Enter your guess: tiger
+Result: [t] [i] [g] [e] [r]
+Congratulations! You guessed the word in 2 tries!
