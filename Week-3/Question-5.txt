@@ -1,0 +1,17 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Wordle only shows one letter of each guess! Find the bug and fix it.
+
+
+
+Here is what happens now:
+
+
+
+Welcome to Wordle!
+Enter your guess: crazy
+Result: [y]
+Enter your guess: plumb
+Result: b
