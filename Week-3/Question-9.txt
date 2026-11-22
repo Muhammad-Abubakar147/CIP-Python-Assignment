@@ -1,0 +1,20 @@
+A twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Ready for a challenge? Don't show which letters matched. After each guess, only say how many letters are in the right place and how many are in the wrong place.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to Wordle!
+Enter your guess: crazy
+Right place: 2, wrong place: 1
+Enter your guess: dance
+Right place: 2, wrong place: 2
+Enter your guess: candy
+Right place: 5, wrong place: 0
+Congratulations! You guessed the word in 3 tries!
