@@ -1,0 +1,22 @@
+ twist on Wordle from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Guessing the same word twice wastes a turn. If the player repeats a guess, tell them and let them try again, without using up a guess.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to Wordle!
+Enter your guess: crazy
+Result: [c] r (a) z [y]
+Enter your guess: crazy
+You already guessed that one!
+Enter your guess: corny
+Result: [c] o r (n) [y]
+Enter your guess: candy
+Result: [c] [a] [n] [d] [y]
+Congratulations! You guessed the word in 3 tries!
