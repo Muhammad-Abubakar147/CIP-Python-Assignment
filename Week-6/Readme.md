@@ -25,3 +25,9 @@ This folder contains my Python programming assignments, questions, and solutions
 - Visual Studio Code
 - Git & GitHub
 - Stanford Code in Place
+
+## 🎓 Learning Experience
+
+Completing all six weeks of Stanford Code in Place has been an important milestone in my programming journey.
+
+Throughout this program, I had the opportunity to learn Python, interact with international participants, exchange ideas, and improve my problem-solving abilities.
