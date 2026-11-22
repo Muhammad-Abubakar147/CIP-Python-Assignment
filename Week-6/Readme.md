@@ -18,3 +18,10 @@ This folder contains my Python programming assignments, questions, and solutions
 - Practiced writing clean and structured Python code.
 - Worked on different programming challenges.
 - Applied programming concepts through practical assignments.
+
+## 🛠️ Technologies Used
+
+- Python
+- Visual Studio Code
+- Git & GitHub
+- Stanford Code in Place
