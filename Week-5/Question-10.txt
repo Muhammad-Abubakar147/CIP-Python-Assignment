@@ -1,0 +1,24 @@
+A twist on Code Cracker from your section. Try it yourself, then compare your code with the solution.
+
+
+
+A different kind of code: flip the alphabet, so a becomes z, b becomes y, and so on.
+
+
+
+To mirror one letter, find its position with ALPHABET.find(letter). The mirrored letter is at position 25 - position. For example, c is at position 2, and 25 - 2 is 23, which is x.
+
+
+
+Write mirror_letter(letter), which returns the mirrored letter, and mirror(message), which mirrors every letter and leaves spaces alone. Instead of cracking the message, just print the message mirrored, and then mirrored again.
+
+
+
+Here is a sample run:
+
+
+
+Welcome to the Code Machine!
+Enter a message: hello friend
+Mirrored: svool uirvmw
+Mirrored again: hello friend
