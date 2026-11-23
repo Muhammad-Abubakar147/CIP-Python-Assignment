@@ -1,0 +1,27 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Add these two lists to the top of your program:
+
+
+
+LETTERS = ["a", "c", "e", "i", "o", "t"]
+EMOJIS = ["🍎", "🐱", "🥚", "🍦", "🐙", "🌮"]
+
+
+
+Write a function build_alphabet(letters, emojis) that returns a dictionary from each letter to the emoji at the same position. Instead of building a dictionary and translating sentences, print the alphabet with print_emoji_dict.
+
+
+
+Here is a sample run:
+
+
+
+a: 🍎
+c: 🐱
+e: 🥚
+i: 🍦
+o: 🐙
+t: 🌮
