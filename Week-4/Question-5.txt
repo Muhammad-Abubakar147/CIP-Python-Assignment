@@ -1,0 +1,31 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Write a program that combines two dictionaries. First, write a function called combine(dict1, dict2) that returns one new dictionary with every pair from both. Then ask the user to input two dictionaries, combine them, and use the combined dictionary for translation.
+
+
+
+Here is a sample run:
+
+
+
+Player 1, build your emoji dictionary! Press enter when you are done.
+Word: pizza
+Emoji for pizza: 🍕
+Word: love
+Emoji for love: ❤️
+Word:
+Player 2, build your emoji dictionary! Press enter when you are done.
+Word: dog
+Emoji for dog: 🐶
+Word: love
+Emoji for love: 💜
+Word:
+Words in your dictionary: 3
+pizza: 🍕
+love: 💜
+dog: 🐶
+Enter a sentence: my dog and I love pizza
+my 🐶 and I 💜 🍕
+Enter a sentence:
