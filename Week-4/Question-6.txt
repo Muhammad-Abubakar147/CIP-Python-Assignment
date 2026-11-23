@@ -1,0 +1,28 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Write a function quiz(emoji_dict) that shows each emoji in the dictionary, asks what word it stands for, and says if the guess is right. Capital letters in a guess are fine, so Love counts for love. At the end, print the score. In main, call quiz instead of printing the dictionary and translating sentences.
+
+
+
+Here is a sample run:
+
+
+
+Let's build your emoji dictionary! Press enter when you are done.
+Word: pizza
+Emoji for pizza: 🍕
+Word: cat
+Emoji for cat: 🐱
+Word: love
+Emoji for love: ❤️
+Word:
+Words in your dictionary: 3
+What word is 🍕? pizza
+Correct!
+What word is 🐱? dog
+Nope, it was cat.
+What word is ❤️? Love
+Correct!
+You got 2 out of 3!
