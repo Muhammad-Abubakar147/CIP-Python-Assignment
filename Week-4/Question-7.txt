@@ -1,0 +1,29 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Write a function reverse_dict(emoji_dict) that returns a new dictionary from each emoji to its word. Then, instead of asking for sentences, ask for emoji messages and translate them back into words. Put a space between the emoji when you type a message.
+
+
+
+Here is a sample run:
+
+
+
+Let's build your emoji dictionary! Press enter when you are done.
+Word: pizza
+Emoji for pizza: 🍕
+Word: love
+Emoji for love: ❤️
+Word: cat
+Emoji for cat: 🐱
+Word:
+Words in your dictionary: 3
+pizza: 🍕
+love: ❤️
+cat: 🐱
+Enter an emoji message: 🐱 ❤️ 🍕
+cat love pizza
+Enter an emoji message: 🐶 ❤️ 🍕
+🐶 love pizza
+Enter an emoji message:
