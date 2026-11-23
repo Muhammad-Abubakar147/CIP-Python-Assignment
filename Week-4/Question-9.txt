@@ -1,0 +1,29 @@
+A twist on Emoji Translator from your section. Try it yourself, then compare your code with the solution.
+
+
+
+When a word has no emoji, ask call_gpt for one instead of keeping the word. Add the new emoji to the dictionary, so the translator learns it. When the user is done translating, print how many words the dictionary has now, and print the dictionary again to see every word it learned.
+
+
+
+Here is a sample run (the AI's emoji may be different):
+
+
+
+Let's build your emoji dictionary! Press enter when you are done.
+Word: pizza
+Emoji for pizza: 🍕
+Word: love
+Emoji for love: ❤️
+Word:
+Words in your dictionary: 2
+pizza: 🍕
+love: ❤️
+Enter a sentence: I love tea
+🙋 ❤️ 🍵
+Enter a sentence:
+Words in your dictionary: 4
+pizza: 🍕
+love: ❤️
+i: 🙋
+tea: 🍵
