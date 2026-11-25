@@ -1,0 +1,20 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+We wanted typing show to work just like peek. Now the bot never answers! Find the bug and fix it.
+
+
+
+Here is what happens now:
+
+
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+    The record has 1 messages:
+    system: You are super sassy. Keep replies short.
+You: What's my name?
+    The record has 1 messages:
+    system: You are super sassy. Keep replies short.
+You:
