@@ -1,0 +1,24 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Write a function called search(messages, word) that prints every user and bot message that contains word. Capital letters should not matter, and do not print the system message. Then add a search command that asks for a word and calls search.
+
+
+
+Here is a sample run (the AI's replies will be different):
+
+
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Ugh, fine. Nice to meet you, Sam!
+You: I love teal.
+Bot: Ugh, fine. Sounds fun!
+You: search
+Search for: sam
+    user: My name is Sam.
+    assistant: Ugh, fine. Nice to meet you, Sam!
+You: search
+Search for: pizza
+You:
