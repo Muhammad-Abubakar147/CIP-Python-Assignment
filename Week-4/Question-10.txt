@@ -1,0 +1,22 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Add a new chat command that starts a brand new conversation. The bot should forget everything you said, but keep its personality. Use a slice to keep only the system message.
+
+
+
+Here is a sample run (the AI's replies will be different):
+
+
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Ugh, fine. Nice to meet you, Sam!
+You: What's my name?
+Bot: Ugh, fine. Your name is Sam!
+You: new chat
+    Started a new chat! The record has 1 messages.
+You: What's my name?
+Bot: Ugh, fine. I don't know your name yet.
+You:
