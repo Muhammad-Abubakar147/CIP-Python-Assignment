@@ -119,7 +119,7 @@ CIP-Python-Assignments/
 ├── Week-3/
 ├── Week-4/
 ├── Week-5/
-├── Week-N/        # future weeks follow the same naming pattern
+├── Week-6/      
 └── README.md
 ```
 
