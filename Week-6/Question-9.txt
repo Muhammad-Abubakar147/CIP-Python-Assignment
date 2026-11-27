@@ -1,0 +1,25 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+The bot is always one step behind: it answers the message before the one you just sent! Find the bug and fix it.
+
+
+
+Here is what happens now (the AI's replies will be different):
+
+
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Ugh, fine. Hello! What do you want to talk about?
+You: What's my name?
+Bot: Ugh, fine. Nice to meet you, Sam!
+You: peek
+    The record has 5 messages:
+    system: You are super sassy. Keep replies short.
+    user: My name is Sam.
+    assistant: Ugh, fine. Hello! What do you want to talk about?
+    user: What's my name?
+    assistant: Ugh, fine. Nice to meet you, Sam!
+You:
