@@ -1,0 +1,28 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Add a costume command that asks for a new personality and gives the bot that personality, without forgetting the conversation. Replace the old system message with a new one, but keep every message after it. To do this, make a new system message and glue it onto everything after the old system message.
+
+
+
+Here is a sample run (the AI's replies will be different):
+
+
+
+Chat with the bot! (press Enter to quit)
+You: My name is Sam.
+Bot: Ugh, fine. Nice to meet you, Sam!
+You: costume
+New personality: You are a pirate. Keep replies short.
+    Costume changed!
+You: What's my name?
+Bot: Arr! Your name is Sam!
+You: peek
+    The record has 5 messages:
+    system: You are a pirate. Keep replies short.
+    user: My name is Sam.
+    assistant: Ugh, fine. Nice to meet you, Sam!
+    user: What's my name?
+    assistant: Arr! Your name is Sam!
+You:
