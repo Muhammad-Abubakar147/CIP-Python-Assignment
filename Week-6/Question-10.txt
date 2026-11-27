@@ -1,0 +1,25 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Add an again command that throws away the bot's last reply and asks for a new one, like the try again button on a real chatbot. Use a slice to remove the last message. If there is no reply yet, print Nothing to try again yet.
+
+
+
+Here is a sample run (the AI's replies will be different):
+
+
+
+Chat with the bot! (press Enter to quit)
+You: again
+    Nothing to try again yet.
+You: Tell me a joke.
+Bot: Ugh, fine. What do you call a sleeping bull? A bulldozer.
+You: again
+Bot: Ugh, fine. Why did the cookie cry? Its mom was a wafer so long.
+You: peek
+    The record has 3 messages:
+    system: You are super sassy. Keep replies short.
+    user: Tell me a joke.
+    assistant: Ugh, fine. Why did the cookie cry? Its mom was a wafer so long.
+You:
