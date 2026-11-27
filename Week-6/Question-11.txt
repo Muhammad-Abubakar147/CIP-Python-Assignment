@@ -1,0 +1,34 @@
+A twist on Chatbot from your section. Try it yourself, then compare your code with the solution.
+
+
+
+Add this list of bots to the top of your program, in place of PERSONALITY:
+
+
+
+BOTS = [
+    {"name": "Captain Kit", "personality": "You are Captain Kit, a pirate. Keep replies short."},
+    {"name": "Chef Rosa", "personality": "You are Chef Rosa, a very dramatic chef. Keep replies short."},
+    {"name": "Beep", "personality": "You are Beep, a very literal robot. Keep replies short."},
+]
+
+
+
+Before the chat starts, print each bot's number and name, and ask the user to pick one. Use that bot's personality for the system message, and print its name instead of Bot before each reply.
+
+
+
+Here is a sample run (the AI's replies will be different):
+
+
+
+Chat with the bot! (press Enter to quit)
+0: Captain Kit
+1: Chef Rosa
+2: Beep
+Pick a bot: 1
+You: My name is Sam.
+Chef Rosa: Magnifique! Nice to meet you, Sam!
+You: What's my name?
+Chef Rosa: Magnifique! Your name is Sam!
+You:
